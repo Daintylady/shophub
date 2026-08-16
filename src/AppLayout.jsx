@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import Wishlist from "./pages/Wishlist";
 import Login from "./components/Login";
-import SignUp from "./components/SignUp";
+import SignUp from "./components/Signup";
 import Checkout from "./pages/Checkout";
 import OrderConfirmation from "./pages/OrderConfirmation";
 import ScrollToTop from "./components/ScrollToTop";
