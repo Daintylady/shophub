@@ -8,7 +8,7 @@ import "./App.css";
 import { StyleQuizProvider } from "./Context/StyleQuizContext";
 import "./filters.css";
 import NewsletterStrip from "./Components/NewsletterStrip";
-import Footer from "./components/Footer";
+import Footer from "./Components/Footer";
 import { OrderHistoryProvider } from "./Context/OrderHistoryContext";
 import "./SizeAndOrders.css";
 
