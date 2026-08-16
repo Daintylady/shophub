@@ -4,7 +4,7 @@ import products from "../data/products.json";
 import { useCart } from "../context/CartContext";
 import { useWishlist } from "../context/WishlistContext";
 import { useRecentlyViewed } from "../context/RecentlyViewedContext";
-import { getKidsImage } from "../utils/KidsImages";
+import { getKidsImage } from "../utils/kidsImages";
 import { getAdultsImage } from "../utils/adultsImages";
 
 const CLOTHING_DEPARTMENTS = [
