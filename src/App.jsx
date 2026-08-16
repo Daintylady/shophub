@@ -1,15 +1,15 @@
 import { BrowserRouter } from "react-router-dom";
-import { AuthProvider } from "./Context/AuthContext";
-import { CartProvider } from "./Context/CartContext";
-import { WishlistProvider } from "./Context/WishlistContext";
-import { RecentlyViewedProvider } from "./Context/RecentlyViewedContext";
+import { AuthProvider } from "./context/AuthContext";
+import { CartProvider } from "./context/CartContext";
+import { WishlistProvider } from "./context/WishlistContext";
+import { RecentlyViewedProvider } from "./context/RecentlyViewedContext";
 import AppLayout from "./AppLayout";
 import "./App.css";
-import { StyleQuizProvider } from "./Context/StyleQuizContext";
+import { StyleQuizProvider } from "./context/StyleQuizContext";
 import "./filters.css";
-import NewsletterStrip from "./Components/NewsletterStrip";
-import Footer from "./Components/Footer";
-import { OrderHistoryProvider } from "./Context/OrderHistoryContext";
+import NewsletterStrip from "./components/NewsletterStrip";
+import Footer from "./components/Footer";
+import { OrderHistoryProvider } from "./context/OrderHistoryContext";
 import "./SizeAndOrders.css";
 
 

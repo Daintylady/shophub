@@ -15,7 +15,7 @@ import Kids from "./pages/Kids";
 import Adults from "./pages/Adults";
 import Cart from "./pages/Cart";
 import ProductDetail from "./pages/ProductDetails";
-import OrderHistory from "./Pages/OrderHistory";
+import OrderHistory from "./pages/OrderHistory";
 
 const noFooterRoutes = [
   "/login",
